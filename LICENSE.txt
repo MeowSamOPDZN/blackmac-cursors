@@ -1,0 +1,29 @@
+BlackMac Cursors — License
+==========================
+
+This pack has two parts. Please respect both.
+
+1. ORIGINAL FILES — do not give away, re-upload, sell, or share without permission
+   These were made for this pack:
+   - arrow.cur (Sam's own arrow artwork)
+   - wait.ani (beach ball, drawn from scratch)
+   - appstarting.ani (arrow + beach ball, drawn from scratch)
+   - poof.cur (cloud, drawn from scratch)
+   - Install.bat, Install.inf, README.md, credits.txt, LICENSE.txt,
+     BlackMac-Cursor-Test.html, BlackMac-Cursors-Preview.png
+   (c) MeowSamOP DZN. All rights reserved. Do not redistribute these files
+   in any form without permission from MeowSamOP DZN.
+
+2. BREEZEX-DERIVED FILES — free to share and resell, under GPL-3.0
+   These shapes come from BreezeX by ful1e5 (GPL-3.0), restyled for this pack:
+   - help.cur, cross.cur, ibeam.cur, pen.cur, no.cur
+   - size_ns.cur, size_we.cur, size_nwse.cur, size_nesw.cur, size_all.cur
+   - up.cur, hand.cur, openhand.cur, closedhand.cur
+   - copy.cur, alias.cur, contextual.cur
+   - zoom_in.cur, zoom_out.cur, person.cur, pin.cur
+   You may share and resell these files, but only under the terms of the
+   GNU General Public License v3.0 (see the LICENSE file): keep this credit,
+   keep the GPL license, and share your version under the same terms.
+
+   (These files cannot be locked down, because the BreezeX GPL license
+   already gives everyone the right to share them.)

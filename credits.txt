@@ -1,0 +1,13 @@
+BlackMac Cursors — Credits
+===========================
+
+Pack by: MeowSamOP DZN
+
+- Arrow artwork: MeowSamOP DZN (original)
+- Beach ball + poof cloud: drawn from scratch for this pack
+- Cursor shapes (hands, I-beam, crosshair, resize arrows, etc.): adapted from
+  BreezeX by ful1e5 (https://github.com/ful1e5/BreezeX_Cursor), GPL-3.0
+- Pack built by: Muse (Sam's AI assistant)
+
+License: see LICENSE.txt. Original files are not to be redistributed
+without permission; BreezeX-derived files are GPL-3.0.

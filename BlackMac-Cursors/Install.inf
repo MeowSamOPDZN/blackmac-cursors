@@ -1,0 +1,65 @@
+; Black Mac cursor scheme for Windows 10
+; Right-click this file and choose Install, then pick the "Black Mac" scheme
+; in Settings > Bluetooth & devices > Mouse > Additional mouse settings > Pointers.
+
+[Version]
+Signature="$CHICAGO$"
+Provider="BlackMac"
+
+[DefaultInstall]
+CopyFiles=Scheme.Cur
+AddReg=Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur=10,"%CUR_DIR%"
+
+[SourceDisksNames]
+1="Black Mac Cursors",,,
+
+[SourceDisksFiles]
+arrow.cur=1
+help.cur=1
+appstarting.ani=1
+wait.ani=1
+cross.cur=1
+ibeam.cur=1
+pen.cur=1
+no.cur=1
+size_ns.cur=1
+size_we.cur=1
+size_nwse.cur=1
+size_nesw.cur=1
+size_all.cur=1
+up.cur=1
+hand.cur=1
+openhand.cur=1
+closedhand.cur=1
+copy.cur=1
+alias.cur=1
+contextual.cur=1
+zoom_in.cur=1
+zoom_out.cur=1
+poof.cur=1
+person.cur=1
+pin.cur=1
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","Black Mac",,"%10%\%CUR_DIR%\arrow.cur,%10%\%CUR_DIR%\help.cur,%10%\%CUR_DIR%\appstarting.ani,%10%\%CUR_DIR%\wait.ani,%10%\%CUR_DIR%\cross.cur,%10%\%CUR_DIR%\ibeam.cur,%10%\%CUR_DIR%\pen.cur,%10%\%CUR_DIR%\no.cur,%10%\%CUR_DIR%\size_ns.cur,%10%\%CUR_DIR%\size_we.cur,%10%\%CUR_DIR%\size_nwse.cur,%10%\%CUR_DIR%\size_nesw.cur,%10%\%CUR_DIR%\size_all.cur,%10%\%CUR_DIR%\up.cur,%10%\%CUR_DIR%\hand.cur"
+HKCU,"Control Panel\Cursors","Arrow",,"%10%\%CUR_DIR%\arrow.cur"
+HKCU,"Control Panel\Cursors","Help",,"%10%\%CUR_DIR%\help.cur"
+HKCU,"Control Panel\Cursors","AppStarting",,"%10%\%CUR_DIR%\appstarting.ani"
+HKCU,"Control Panel\Cursors","Wait",,"%10%\%CUR_DIR%\wait.ani"
+HKCU,"Control Panel\Cursors","Crosshair",,"%10%\%CUR_DIR%\cross.cur"
+HKCU,"Control Panel\Cursors","IBeam",,"%10%\%CUR_DIR%\ibeam.cur"
+HKCU,"Control Panel\Cursors","NWPen",,"%10%\%CUR_DIR%\pen.cur"
+HKCU,"Control Panel\Cursors","No",,"%10%\%CUR_DIR%\no.cur"
+HKCU,"Control Panel\Cursors","SizeNS",,"%10%\%CUR_DIR%\size_ns.cur"
+HKCU,"Control Panel\Cursors","SizeWE",,"%10%\%CUR_DIR%\size_we.cur"
+HKCU,"Control Panel\Cursors","SizeNWSE",,"%10%\%CUR_DIR%\size_nwse.cur"
+HKCU,"Control Panel\Cursors","SizeNESW",,"%10%\%CUR_DIR%\size_nesw.cur"
+HKCU,"Control Panel\Cursors","SizeAll",,"%10%\%CUR_DIR%\size_all.cur"
+HKCU,"Control Panel\Cursors","UpArrow",,"%10%\%CUR_DIR%\up.cur"
+HKCU,"Control Panel\Cursors","Hand",,"%10%\%CUR_DIR%\hand.cur"
+
+[Strings]
+CUR_DIR="Cursors\BlackMac"
